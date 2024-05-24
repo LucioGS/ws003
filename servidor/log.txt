@@ -1,0 +1,10 @@
+Array
+(
+    [0] => 
+    [1] => 000servicios
+    [2] => 003
+    [3] => servidor
+    [4] => index.php
+    [5] => usuario
+    [6] => 2
+)
